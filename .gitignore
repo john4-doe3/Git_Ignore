@@ -1,0 +1,8 @@
+# using this .gitignore we can ignore 
+# some private or important files
+# and can avoid from going to untrusted hands
+
+# we achieve it by mentionig file name in this file, in here.
+
+.DS_Store
+secrets.txt
